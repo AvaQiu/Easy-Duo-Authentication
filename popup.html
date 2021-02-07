@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <link href="popup.css" type="text/css" rel="stylesheet">
+</head>
+
+<body>
+    <div id="setUp" class="">
+        <p> Please refer to
+            <a href="https://github.com/SparkShen02/Easy-Duo-Authentication" target="_blank">the Github repo</a>
+            for instructions on how to set up this extension.
+        </p>
+        <input type="text" id="secret" placeholder="HOTP Secret">
+        <button id="submit"> Submit </button>
+    </div>
+
+    <div id="setUpSuccess" class="hidden">
+        <p> Set up seccessful! </p>
+        <p> Reopen this extension to get your Duo passcode. </p>
+    </div>
+
+    <div id="displayPasscode" class="hidden">
+        <p> Your next one-time passcode is: </p>
+        <p id="passcode"> 123456 </p>
+        <button id="next"> Next Code </button>
+        <button id="prev"> Previous Code </button>
+        <script src="popup.js"></script>
+    </div>
+</body>
+
+</html>
