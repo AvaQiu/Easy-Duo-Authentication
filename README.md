@@ -43,7 +43,7 @@ Choose ```Tablet```, choose either ```iOS``` or ```Android```, and click ```Cont
 
 <img src="screenshots/Screen%20Shot%202021-02-08%20at%2010.05.41%20AM.png" width="400">
 
-You may change the device name to something like ```Easy Duo Authentication```. Also, set it to the ```Default Device``` for convenience. 
+You may change the device name to something like ```Easy Duo Authentication```. Also, set it as the ```Default Device``` for convenience. 
 
 <img src="screenshots/Screen%20Shot%202021-02-08%20at%2010.15.36%20AM.png" width="400">
 
