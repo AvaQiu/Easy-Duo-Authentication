@@ -31,7 +31,7 @@ chrome.storage.sync.get(null, function (data) {
 
       document.getElementById('prev').onclick = function () {
           if (count <= 0) {
-              alert("There is no previous item.");
+              alert("There is no previous code.");
               return;
           }
           count -= 1;

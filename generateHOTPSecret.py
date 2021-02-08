@@ -14,6 +14,6 @@ response = json.loads(requests.post(URL).text)
 try:
     HOTPSecret = response['response']['hotp_secret']
     print('This is your HOTP Secret: ' + HOTPSecret)
-    print('Please copy it to the Chrome extension.')
+    print('Please copy it to the extension.')
 except KeyError:
     print('Something went wrong. Maybe the link has been used.')

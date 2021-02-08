@@ -1,7 +1,7 @@
 {
-    "name": "Getting Started Example",
+    "name": "Easy Duo Authentication",
     "version": "1.0",
-    "description": "Build an Extension!",
+    "description": "A Chrome extension that allows users to authenticate with the Duo Prompt on a computer in one click.",
     "permissions": [
         "activeTab", 
         "storage"
