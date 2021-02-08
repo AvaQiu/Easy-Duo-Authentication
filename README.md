@@ -29,7 +29,7 @@ Choose ```Tablet```, choose either ```iOS``` or ```Android```, and click ```Cont
 
 <img src="screenshots/Screen%20Shot%202021-02-08%20at%209.48.05%20AM.png" width="400">
 
-4. Open terminal, run the following and get a HOTP Secret. 
+4. Open terminal, navigate to the directory, run the following, and get a HOTP Secret. 
  ```bash
  pip install requests
  ```
