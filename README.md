@@ -39,11 +39,11 @@ Choose ```Tablet```, choose either ```iOS``` or ```Android```, and click ```Cont
 <img src="screenshots/Screen%20Shot%202021-02-08%20at%209.58.07%20AM.png" width="450">
  
 5. In Chrome, click the extension and input the HOTP Secret. 
-6. Back to the ```Activate Duo Mobile by Email``` page, click ```Continue```, 
+6. Back to the ```Activate Duo Mobile by Email``` page, click ```Continue```.
 
 <img src="screenshots/Screen%20Shot%202021-02-08%20at%2010.05.41%20AM.png" width="400">
 
-and you may change the device name to something like ```Easy Duo Authentication```. Also, set it to the ```Default Device``` for convenience. 
+You may change the device name to something like ```Easy Duo Authentication```. Also, set it to the ```Default Device``` for convenience. 
 
 <img src="screenshots/Screen%20Shot%202021-02-08%20at%2010.15.36%20AM.png" width="400">
 
