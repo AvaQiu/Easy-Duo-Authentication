@@ -48,5 +48,5 @@ and you may change the device name to something like ```Easy Duo Authentication`
 <img src="screenshots/Screen%20Shot%202021-02-08%20at%2010.15.36%20AM.png" width="400">
 
 ## Notes
-1. Due to the CORS (Cross-Origin Resource Sharing) HTTP-header mechanism, I cannot fetch data directly from Duo using JavaScript, resulting in the extra step using Python. I also cannot get DOM elements inside <iframe> and thus cannot make advanced features like auto-login.  
+1. Due to the CORS (Cross-Origin Resource Sharing) HTTP-header mechanism, I cannot fetch data directly from Duo using JavaScript, resulting in the extra step using Python. 
 2. This project was developed in one day so it does not contain many codes that check for error/bad inputs. If you feel that something is wrong or the extension does not work properly, you could remove it from Chrome and do the Set Up again. 
