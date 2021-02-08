@@ -1,8 +1,10 @@
 # Easy Duo Authentication
 
-A Chrome extension that allows users to easily authenticate with the Duo Prompt on a computer. Developed during UCLA HOTH 8 Hackathon. 
+A Chrome extension that allows users to easily authenticate with the Duo Prompt on a computer. 
 
 <img src="screenshots/Screen%20Shot%202021-02-08%20at%2010.13.39%20AM.png" width="600">
+
+Developed during UCLA HOTH 8 Hackathon. 
 
 ## Overview
 
