@@ -1,7 +1,7 @@
 {
     "name": "Easy Duo Authentication",
     "version": "1.0",
-    "description": "A Chrome extension that allows users to authenticate with the Duo Prompt on a computer in one click.",
+    "description": "A Chrome extension that allows users to easily authenticate with the Duo Prompt on a computer.",
     "permissions": [
         "activeTab", 
         "storage"
